@@ -1,6 +1,6 @@
 formspree_form_id: formspree_form_id
 name: Learn.SaveStudent.Co
-title: Jekflix | A blog theme for Jekyll
+title: Learn.SaveStudent.Co
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -9,7 +9,7 @@ tags:
   - jekyll
   - theme
   - netlify
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
