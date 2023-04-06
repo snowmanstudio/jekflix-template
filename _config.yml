@@ -1,7 +1,8 @@
 # Site Settings
-name: Learn.SaveStudent.Co
-title: Learn.SaveStudent.Co
-description: Learn Online Education
+name: Jekflix
+title: Jekflix | A blog theme for Jekyll
+description: Jekflix is a template for Jekyll inspired by Netflix and made by
+  Thiago Rossener.
 tags:
   - blog
   - template
@@ -11,7 +12,7 @@ tags:
 show_hero: true
 menu:
   - title: Home
-    url: 
+    url: /
   - title: About
     url: /about
   - title: Contact
