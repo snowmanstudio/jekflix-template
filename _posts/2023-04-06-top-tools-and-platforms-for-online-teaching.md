@@ -10,7 +10,7 @@ description: Online teaching has become increasingly popular in recent years,
   teaching experience.
 image: /assets/img/uploads/tools-for-online-teaching.jpg
 optimized_image: /assets/img/uploads/tools-for-online-teaching.jpg
-category: blog
+category: learnings
 tags:
   - online
   - education
