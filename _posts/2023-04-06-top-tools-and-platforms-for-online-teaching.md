@@ -10,12 +10,12 @@ description: Online teaching has become increasingly popular in recent years,
   teaching experience.
 image: /assets/img/uploads/tools-for-online-teaching.jpg
 optimized_image: /assets/img/uploads/tools-for-online-teaching.jpg
-category: blog
+category: css
 tags:
   - online
   - education
 author: mranderson
-paginate: true
+paginate: false
 ---
 Online teaching has become increasingly popular in recent years, especially in the wake of the COVID-19 pandemic. With more and more students learning from home, the demand for effective online teaching tools and platforms has never been higher. In this article, we'll explore some of the top tools and platforms that educators can use to enhance their online teaching experience.
 
